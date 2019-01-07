@@ -8,4 +8,4 @@ My talk: ["Asterisk WebRTC frontier: realize client SIP Phone with sipML5 and Ja
 
 ## Client demo: HTML5 SIP Phone WebRTC
 
-Here is the demo of the [HTML5 SIP Phone WebRTC](https://github.com/alepolidori/janus-webrtc-phone) showed during the talk and the how to run your own private [NethServer VoIP PBX.](https://github.com/alepolidori/howto-nethserver-voip-pbx)
+Here is the demo of the [HTML5 SIP Phone WebRTC](https://github.com/alepolidori/janus-webrtc-phone) showed during the talk and how to use it with your own private [NethServer VoIP PBX.](https://github.com/alepolidori/howto-nethserver-voip-pbx)
