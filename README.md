@@ -4,7 +4,9 @@ As the longest-running event devoted to all-things Asterisk, [AstriCon](https://
 
 ## Talk
 
-My talk: ["Asterisk WebRTC frontier: realize client SIP Phone with sipML5 and Janus Gateway".](https://astricon2018.sched.com/event/Fmle/asterisk-webrtc-frontier-realize-client-sip-phon-with-sipml5-and-janus-gateway)
+- [Video](https://www.youtube.com/watch?v=3wdYuirUTWA)
+- [Slide](https://www.slideshare.net/ale_polidori/asterisk-webrtc-frontier-realize-client-sip-phone-with-sipml5-and-janus-gateway)
+- Schedule: ["Asterisk WebRTC frontier: realize client SIP Phone with sipML5 and Janus Gateway".](https://astricon2018.sched.com/event/Fmle/asterisk-webrtc-frontier-realize-client-sip-phon-with-sipml5-and-janus-gateway)
 
 ## Client demo: HTML5 SIP Phone WebRTC
 
